@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">KalkulatorVolume</string>
     <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="angka1">Angka1</string>
+    <string name="angka2">angka2</string>
 </resources>
